@@ -5,6 +5,6 @@ And it will act as a testing space for me to improve and experiment with my new 
 I also aquired knowledge on how to put a webpage online. By reserving a DNS, finding a host, and uploading the files through
 an FTP server.
 
-**[dulien.ml](www.dulien.ml)**
+**[dulien.ml](https://www.dulien.ml/)**
 
 ![](https://i.gyazo.com/b3bcca926fadc8cba84ecd90b261cd55.png)

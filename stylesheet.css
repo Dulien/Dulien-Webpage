@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: rgb(0, 217, 255);
+    background: rgb(41, 52, 54);
     padding: 10px 40px; 
 }
 
@@ -15,13 +15,36 @@ p {
     line-height: 2;
 }
 
-a {
-    color: lightseagreen;
+nav {
+    background: white;
+    border-radius: 20px;
+    display: inline-block;
 }
 
-a:hover, a:active, a:focus {
-    color: palegreen;
-  }
+nav a:hover {
+    background: rgb(41, 118, 163);
+    border-radius: 20px;
+    color: white;
+}
+
+nav a {
+    color: rgb(39, 45, 49);
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+}
+
+nav {
+    margin-top: 20px;
+    }
+    
+nav ul li {
+    margin-right: 40px;
+    display: inline-block;
+}
+
+a {
+    color: rgb(41, 118, 163);
+}
 
 .cols {
     position: relative;
@@ -64,17 +87,6 @@ a:hover, a:active, a:focus {
     padding: 10px;
     border-radius: 10px; 
     display: inline-block;
-    
+
 }
 
-nav {
-    background: white;
-    border-radius: 20px;
-    display: inline-block;
-    padding-left: 20px;
-}
-
-nav ul li {
-    margin-right: 60px;
-    display: inline-block;
-}
